@@ -1,1 +1,3 @@
-print("holi mundi axis mundi")
+import turtle
+T = turtle.Turtle()
+input()
